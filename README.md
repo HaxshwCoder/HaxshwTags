@@ -1,0 +1,2 @@
+# HaxshwTags
+Plugin de tags.
